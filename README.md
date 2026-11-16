@@ -1,4 +1,4 @@
-# Bagian Orang 2 — Context, Feedback & Background
+# Tugas Checi — Context, Feedback & Background
 
 **Cakupan:** Activity/context → light → feedback → background monitoring
 
